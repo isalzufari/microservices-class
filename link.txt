@@ -1,0 +1,8 @@
+Github:
+https://github.com/isalzufari/microservices-class/tree/kubernetes
+https://github.com/isalzufari/microservices-class/tree/karsajobs
+https://github.com/isalzufari/microservices-class/tree/karsajobs-ui
+
+DockerHub:
+https://hub.docker.com/repository/docker/isalzufari/karsajobs/general
+https://hub.docker.com/repository/docker/isalzufari/karsajobs-ui/general
