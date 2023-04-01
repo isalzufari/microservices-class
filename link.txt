@@ -1,5 +1,5 @@
 Github:
-https://github.com/isalzufari/microservices-class/tree/kubernetes
+https://github.com/isalzufari/microservices-class/tree/submission-2-main
 https://github.com/isalzufari/microservices-class/tree/karsajobs
 https://github.com/isalzufari/microservices-class/tree/karsajobs-ui
 
