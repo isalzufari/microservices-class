@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
         - name: karsajobs-frontend-app
-          image: docker.io/isalzufari/karsajobs:latest
+          image: docker.io/isalzufari/karsajobs-ui:latest
           ports:
             - containerPort: 8000
