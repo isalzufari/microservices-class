@@ -1,0 +1,3 @@
+https://github.com/isalzufari/microservices-class/tree/submission-3
+https://github.com/isalzufari/microservices-class/tree/order-service
+https://github.com/isalzufari/microservices-class/tree/shipping-service
